@@ -1,0 +1,23 @@
+.conteiner_teens{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.name{
+    position: absolute;
+    font-size: 75px;
+    font-family: "Kreon";
+    top: 6%;
+    left: 63%;
+    transform: translate(-15%, -50%);
+}
+.about_myself{
+    position: absolute;
+    font-size: 40px;
+    font-family: "Knewave";
+    top: 45%;
+    left: 70%;
+    transform: translate(-30%, -50%);
+}
